@@ -1,0 +1,22 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+}
+.external{
+    color: blue;
+    background-color: greenyellow;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+    text-align:center;
+}
+#change{
+    color: brown;
+}
+.position{
+    margin-left: 150px;
+    margin-top: 0%;
+    border: 2px solid red;
+    padding-left: 20px;
+}
